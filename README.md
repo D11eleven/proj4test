@@ -5,7 +5,7 @@
 <div align="center">
   
 # VACCINE SIDE-EFFECTS PREDICTOR
-### [Vaccine Side-Effects Predictor](https://dashboard.heroku.com/apps/utsaproject-4)
+### [Vaccine Side-Effects Predictor](https://vaccine-side-effect-predictor.herokuapp.com/)
   
 </div>
 
