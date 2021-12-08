@@ -34,9 +34,9 @@
 
 ## Overview
 
-The Texas Outdoors and Nature Department have recently received an additional $10 million in state funding for wildfire prevention. The department has hired our firm to help decide where to invest their funds best.
+xxxx
 
-Our goal is to develop a web application to compile and display relevant historical data for executive staff.  In addition, we will provide insights and recommendations based on the initial analysis.  
+xxxx 
 
 ## Considerations
 - **Education and Marketing:** Which audience is best suited to receive wildfire prevention education?
@@ -48,9 +48,9 @@ Our goal is to develop a web application to compile and display relevant histori
 
 
 ### Our Recommendations
-- Arson appears to be a consistent cause of wildfires in Texas. The current maximum penalty for arson resulting in severe injury or death is equivalent to possessing 4 to 200 grams of cocaine. (Both result in a fine of up to $10,000 and a max of 10 years in prison.) The department might consider partnering with law enforcement and lawmakers to increase the maximum sentence for arson. 
+- xxxxxxxxxxxx
 
-- Since 2008, 'equipment use' has maintained the leading cause of wildfires in Texas. Activities under this category include (but not limited to) the use of lawnmowers, weed-eaters, chain saws, grinders, welders, tractors, and construction machinery.  We strongly suggest that the department educate communities in high-risk regions on how to operate equipment safely along with making annual inspections of equipement mandetory. Currently, the only inspection regulation for equipement use is from the manufacterer and no inspections are required after. 
+- xxxxxxxxxx
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -60,7 +60,8 @@ Our goal is to develop a web application to compile and display relevant histori
 - PostgreSQL/pgAdmin/Heroku Postgres
 - Python/Pandas/Flask
 - Jupyter Notebook
-- Javascript/Plotly/D3/Chart.js/[Bootstrap](https://getbootstrap.com)
+- Matplotlib/Plotly/D3/Chart.js/[Bootstrap](https://getbootstrap.com)
+- Tableau
 
 Our original data sources contained nearly 2 million records before ETL. Our team used Pandas and Python to extract and clean data relevant to Texas. These remaining records were then imported into a local Postgres database and deployed to a Postgres Heroku cloud server. 
 
