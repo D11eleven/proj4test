@@ -5,12 +5,12 @@
 <div id="top"></div>
 <div align="center">
   
-# Fighting Fire with Data
+# VACCINE SIDE-EFFECTS PREDICTOR
 ### [Vaccine Side-Effects Predictor](https://dashboard.heroku.com/apps/utsaproject-4)
   
 </div>
 
-![Screenshot_1](https://github.com/fhelms8/Project-3/blob/main/Development/pics/dashboard.png?raw=true)
+![Screenshot_1](https://user-images.githubusercontent.com/82190357/145136302-42974b9e-f8c7-43c9-9265-f7abf30b5730.png)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -79,6 +79,6 @@ The final web application uses Heroku and Flask to retrieve data and Plotly, Lea
 <p align="right">(<a href="#top">back to top</a>)</p>
   
 ### The Team
-[Dillon Carter](https://github.com/rb25s13) ---|--- [Felecia Helms](https://github.com/fhelms8) ---|--- [Darrell Horich](https://github.com/D11eleven) ---|--- [Taylor Lyons](https://github.com/taylorsyde)
+[Amy Bednarz](https://github.com/abednarz210) ---|--- [Darrell Horich](https://github.com/D11eleven) ---|--- [Taylor Lyons](https://github.com/taylorsyde) ---|--- [Samantha Perez](https://github.com/Sjenn257)
   
 <p align="right">(<a href="#top">back to top</a>)</p>
