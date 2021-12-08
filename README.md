@@ -71,6 +71,8 @@ The final web application uses Heroku and Flask to retrieve data and Plotly, Lea
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Data Sources
+
+[COVID-19 Vaccine Adverse Event Reporting System](https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions?select=2021VAERSSYMPTOMS.csv
  
 <a href=https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions?select=2021VAERSVAX.csv</a>
 <br>
