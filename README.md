@@ -1,6 +1,5 @@
 # proj4test
 
-# proj4test
 
 <div id="top"></div>
 <div align="center">
