@@ -60,7 +60,7 @@ xxxx
 - PostgreSQL/pgAdmin/Heroku Postgres
 - Python/Pandas/Flask
 - Jupyter Notebook
-- Matplotlib/Plotly/D3/Chart.js/[Bootstrap](https://getbootstrap.com)
+- Matplotlib/Plotly/D3/[Bootstrap](https://getbootstrap.com)
 - Tableau
 
 Our original data sources contained nearly 2 million records before ETL. Our team used Pandas and Python to extract and clean data relevant to Texas. These remaining records were then imported into a local Postgres database and deployed to a Postgres Heroku cloud server. 
