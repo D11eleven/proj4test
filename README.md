@@ -71,9 +71,8 @@ The final web application uses Heroku and Flask to retrieve data and Plotly, Lea
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Data Sources
-- U.S. DEPARTMENT OF AGRICULTURE - RDS-2013-0009.4_SQLITE <br>
-<a href=https://www.drought.gov/states/texas>Drought.gov</a> <br>
-<a href=https://www.kaggle.com/rtatman/188-million-us-wildfires>Kaggle.com</a>
+ 
+<a href=https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions?select=2021VAERSVAX.csv</a>
 <br>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
