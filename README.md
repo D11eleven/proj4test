@@ -57,7 +57,7 @@ xxxx
 ### Our Process
 
 #### Tools
-- PostgreSQL/pgAdmin/Heroku Postgres
+- Machine Learning Models/KNN/LinearRegression/xxx
 - Python/Pandas/Flask
 - Jupyter Notebook
 - Matplotlib/Plotly/D3/[Bootstrap](https://getbootstrap.com)
